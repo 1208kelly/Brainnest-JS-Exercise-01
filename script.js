@@ -1,0 +1,1 @@
+const para = document.createElement("Hey I'm red!");
